@@ -20,11 +20,51 @@
 ## 3. 项目列表
 （名字按时间排序，最新添加的在最上面）
 
+
+### 2019年4月16号添加
+---
+#### iizvv - [Github](https://github.com/iizvv)
+* :white_check_mark: [爱美剧Mac客户端](https://github.com/imeiju/iMeiJu_Mac)：爱美剧Mac客户端
+
+
+### 2019年4月15号添加
+---
+#### yuzexia(上海) - [Github](https://github.com/yuzexia)
+* :white_check_mark: [iw3cplus](http://www.xiayuze.com/wxtools/w3cplus.jpg)：前端社区 w3cplus 的小程序
+
+### 2019年4月14号添加
+---
+#### zgjie - [Twitter](https://twitter.com/zgjie)
+* :white_check_mark: [相照（Timeflower）](https://itunes.apple.com/cn/app/id1436035479)：浏览 iOS 照片库中的往年今日照片，支持农历
+
+### 2019年4月13号添加
+---
+#### pianoguy(法國·南特) - [Github](https://github.com/jingkecn), [博客](https://zhuanlan.zhihu.com/pianoguy)
+* :white_check_mark: [Interactive Math Pad](https://github.com/jingkecn/interactive-math-pad-android/releases)：數學公式手寫板（Android，支持導出 LaTex & Math ML，PS：復刻下架應用 MyScript MathPad） - [更多介绍](https://zhuanlan.zhihu.com/p/60476337)
+
+#### giscafer - [GitHub](https://github.com/giscafer)
+
+* :white_check_mark: [前端小助手](https://user-images.githubusercontent.com/8676711/51597092-633a3e80-1f35-11e9-9042-adde594b52c7.jpg) ：微信小程序，聚合早报、周刊等学习资源
+
+### 2019年4月12号添加
+---
+#### wonderbeyond - [GitHub](https://github.com/wonderbeyond)
+* :white_check_mark: [HitUP](https://chrome.google.com/webstore/detail/hitup/eiokaohkigpbonodjcbjpecbnccijkjb)：一款 Chrome 扩展，利用 New Tab “空白页” 助您保持对流行技术趋势的跟进，附带小福利 - [更多介绍](https://www.v2ex.com/t/537982)
+
+#### zhaoolee - [Github](https://github.com/zhaoolee)
+* :white_check_mark: [Chrome 插件英雄榜](https://github.com/zhaoolee/ChromeAppHeroes)： 🌈 为优秀的 Chrome 插件写一本中文说明书, 让 Chrome 插件英雄们造福人类~
+
+#### nwsuafzq - [Github](https://github.com/nwsuafzq)
+* :white_check_mark: [小度涂鸦](https://www.coolapk.com/apk/188947)：一款安卓版的涂鸦软件 - [更多介绍](https://github.com/nwsuafzq/duya_doodle)
+
 ### 2019年4月11号添加
 ---
 #### waningflow - [Github](https://github.com/waningflow)
 * :white_check_mark: [I Remember!](https://itunes.apple.com/cn/app/id1449941592)：一个纪念日应用，让你轻松回答“XX恋爱520天是几月几号”此类问题
 * :white_check_mark: [Logo Generator](https://tools.waningflow.com/logo-generate)：一个可以快速生成类似 YouTube logo 的网站
+
+#### onlymash - [Github](https://github.com/onlymash)
+* :white_check_mark: [Flexbooru](https://play.google.com/store/apps/details?id=onlymash.flexbooru.play)：一个兼容 [Danbooru](https://github.com/r888888888/danbooru)、[Moebooru](https://github.com/moebooru/moebooru) 和 Gelbooru 等图版引擎的开源 Android 客户端，支持 Muzei 壁纸 - [更多介绍](https://github.com/flexbooru/flexbooru)
 
 ### 2019年4月10号添加
 ---
@@ -83,7 +123,7 @@
 #### Eureka Chen - [GitHub](https://github.com/EurekaChen), [个人网站](https://eureka.name)
 * :white_check_mark: [易易时间钟](http://www.9192631770.com/)：集传统节气、星座、天干地支计时为一体的是间钟
 * :white_check_mark: [彩色易经](https://eeeeee.org/e)：群经之首，大道之源
-* :white_check_mark: [易易网址](https://eeurl.com)：既能象短网址一样简化您的网址，也能象pastebin一样记载您的文本，并且可自定义短网址文本。
+* :white_check_mark: [易易网址](https://eeurl.com)：既能像短网址一样简化您的网址，也能像pastebin一样记载您的文本，并且可自定义短网址文本。
 
 ### 2019年2月28号添加
 ---
@@ -671,6 +711,7 @@
 * :white_check_mark: [MLIA](http://ml.apachecn.org/mlia/)：“机器学习实战”系列课程
 
 #### Easy - [微博](https://weibo.com/easy), [GitHub](https://github.com/easychen)
+* :white_check_mark:[TimeTodo](http://timetodo.ftqq.com/)：附带计时的Todo工具，支持Mac、Win和Web三个平台。还可以编写WebHook整合到工作流中
 * :white_check_mark:[冷熊简历](http://cv.ftqq.com/)：在线 Markdown 简历工具，支持实时预览，一键 PDF。含常用片段，内容自动保存
 * :white_check_mark:[一键代币](https://token.ftqq.com)：1 分钟免费发布你自己的加密货币，支持自动发币
 
@@ -985,8 +1026,8 @@
 * :white_check_mark: [创造狮导航](http://chuangzaoshi.com)：创意工作者导航
 
 #### wichna
-* :white_check_mark: [Paybase](https://paybase.cn)：一个专注于支付领域的垂直论坛 - [更多介绍](https://wanqu.io/t/paybase/7891)
-* :white_check_mark: [Anyshortcut](https://anyshortcut.com/)：一款 Chrome/Firefox 效率插件，自定义快捷键快速打开常用网站 - [更多介绍](https://wanqu.io/t/anyshorcut-chrome/7648/9)
+* :white_check_mark: [Paybase](https://paybase.cn)：一个专注于支付领域的垂直论坛 - [更多介绍](https://paybase.cn/d/35-paybase)
+* :white_check_mark: [Anyshortcut](https://anyshortcut.com/)：一款 Chrome/Firefox 效率插件，自定义快捷键快速打开常用网站 - [更多介绍](https://sspai.com/post/42272)
 
 #### 猫叔 - [GitHub](https://github.com/imeoer), [博客](http://www.chole.io/)
 * :clock8: [纸小墨](https://www.v2ex.com/t/393185#reply710)：全平台笔记软件
